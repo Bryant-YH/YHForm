@@ -1,0 +1,17 @@
+//
+//  MainVC.h
+//  YHForm
+//
+//  Created by Bryant_YH on 2020/8/28.
+//  Copyright © 2020 Bryant_YH. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface MainVC : UIViewController
+
+@end
+
+NS_ASSUME_NONNULL_END

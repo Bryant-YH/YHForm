@@ -1,0 +1,22 @@
+{
+  "name": "YHForm",
+  "version": "1.0.0",
+  "summary": "两块区域表格，三块区域表格.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bryant-YH/YHForm",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bryant-YH": "619527698@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Bryant-YH/YHForm.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YHForm/Classes/**/*"
+}
